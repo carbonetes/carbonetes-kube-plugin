@@ -25,6 +25,8 @@ To know more about Carbonetes, check [our website](https://carbonetes.com).
     $ kubectl krew install carbonetes/carbonetes-scan
     ```
 
+Visit [carbonetes-scan repo](https://github.com/carbonetes/kubectl-carbonetes-scan) for more installation procedures.
+
 ## Support
 To help with this plugin, or have an issue or feature request, please contact: [eng@carbonetes.com](eng@carbonetes.com)
 
