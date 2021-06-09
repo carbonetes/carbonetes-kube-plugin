@@ -2,6 +2,8 @@
 
 # Carbonetes CLI Plugin
 
+[![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/kubectl-carbonetes-scan)](https://artifacthub.io/packages/search?repo=kubectl-carbonetes-scan)
+
 This repository serves as a host to our plugin for `OpenShift CLI (oc)` and `Kubernetes command-line tool (kubectl)`.
 
 ## oc and kubectl plugins
